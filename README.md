@@ -133,7 +133,7 @@ Decision framing and strategic context definition.
 
 Formal KPI and metric design aligned to decision criteria.
 
-### 🔄 Module 3 — Data Modeling for Decision Support (In Progress)
+### ✅ Module 3 — Data Modeling for Decision Support
 
 Designing analytics-ready data structures to support KPIs.
 
